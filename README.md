@@ -17,7 +17,7 @@ Sew the LEDs, push button and microcontroller on to the jacket as explained in h
 
 You can also have the arduino controller on seperate patch of cloth and use snap buttons to complete the circuit.
 
-Once the circuit is complete, upload the arduino code in https://github.com/rpattath/Lighted-Jacket/blob/master/Jacket.ino to the arduino controller.
+Once the circuit is complete, upload the code in https://github.com/rpattath/Lighted-Jacket/blob/master/Jacket.ino to the arduino controller.
 
 This is how the jacket is expected to work:
 Press and hold the button on the left sleeve for the LEDs on left side to blink
