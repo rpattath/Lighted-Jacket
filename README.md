@@ -13,7 +13,7 @@ conductive thread - https://www.sparkfun.com/products/10867
 1 AAA battery
 1 Microusb to USB cable
 
-Sew the LEDs, push button and microcontroller on to th jacket as explained in https://github.com/rpattath/Lighted-Jacket/blob/master/IMG_7181.JPG
+Sew the LEDs, push button and microcontroller on to the jacket as explained in https://github.com/rpattath/Lighted-Jacket/blob/master/IMG_7181.JPG
 
 You can also have the arduino controller on seperate patch of cloth and use snap buttons to complete the circuit.
 
